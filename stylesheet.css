@@ -28,11 +28,14 @@
 	background: url('precinct6.png');
 	height:70vh;
 	background-size:100%;
+	right:0px;
+	width:73vw !important;
 }
 .neighborhoods{
 	color:#45819a;
 	font-size:28px;
 	padding-left:10px;
+	width:25vw !important;
 }
 .neighborhood-title{
 	padding-left:10px;
@@ -47,6 +50,7 @@
 	height:15vh;
 	position:absolute;
 	bottom:0;
+	padding-top:2%;
 }
 .footertitle{
 	color:white;
