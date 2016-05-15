@@ -81,3 +81,17 @@
 	border-style:solid;
 	border-bottom-style:none;
 }
+
+.avgpropertyvalue{
+	color:white;
+	font-size:20px;
+}
+.totalevictions{
+	color:white;
+	font-size:20px;
+}
+.neighborhoodname{
+	font-size:25px;
+	color:white;
+	margin-bottom:10px;
+}

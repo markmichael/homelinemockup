@@ -36,4 +36,39 @@ $(document).ready(function(){
   	$("#map2").addClass("hidden");
   	$("#map1").addClass("hidden");
   })
+  $("#eastwood").mouseover(function(){
+  	$(".totalevictions").text("3K EVICTIONS");
+  	$(".avgpropertyvalue").text("AVG PROPERTY VALUE: $90K");
+  	$("neighborhoodname").text("EASTWOOD");
+  });
+  $("#fifth").mouseover(function(){
+  	$(".totalevictions").text("4K EVICTIONS");
+  	$(".avgpropertyvalue").text("AVG PROPERTY VALUE: $40K");
+  	$(".neighborhoodname").text("FIFTH WARD");
+  });
+  $("#gulfgate").mouseover(function(){
+  	$(".totalevictions").text("2K EVICTIONS");
+  	$(".avgpropertyvalue").text("AVG PROPERTY VALUE: $110K");
+  	$(".neighborhoodname").text("GULFGATE/PINE VALLEY");
+  });
+  $("#idylwood").mouseover(function(){
+  	$(".totalevictions").text("1.5K EVICTIONS");
+  	$(".avgpropertyvalue").text("AVG PROPERTY VALUE: $70K");
+  	$(".neighborhoodname").text("IDYLWOOD");
+  });
+  $("#magnolia").mouseover(function(){
+  	$(".totalevictions").text("1.5K EVICTIONS");
+  	$(".avgpropertyvalue").text("AVG PROPERTY VALUE: $50K");
+  	$(".neighborhoodname").text("MAGNOLIA PARK");
+  });
+  $("#pecan").mouseover(function(){
+  	$(".totalevictions").text("4K EVICTIONS");
+  	$(".avgpropertyvalue").text("AVG PROPERTY VALUE: $113K");
+  	$(".neighborhoodname").text("PECAN PARK");
+  });
+  $("#second").mouseover(function(){
+  	$(".totalevictions").text("3K EVICTIONS");
+  	$(".avgpropertyvalue").text("AVG PROPERTY VALUE: $74K");
+  	$(".neighborhoodname").text("SECOND WARD");
+  });
 });
