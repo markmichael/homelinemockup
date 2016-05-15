@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+  <name>Houston Texas Neighborhoods</name>
+  <description><![CDATA[]]></description>
+  <Style id="style16">
+    <LineStyle>
+      <color>40000000</color>
+      <width>3</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>73FF0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="style15">
+    <LineStyle>
+      <color>40000000</color>
+      <width>3</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7300CCFF</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="style9">
+    <LineStyle>
+      <color>40000000</color>
+      <width>3</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>730000CC</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="style6">
+    <LineStyle>
+      <color>40000000</color>
+      <width>3</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>73009900</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="style1">
+    <LineStyle>
+      <color>40000000</color>
+      <width>3</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>73CC33CC</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="style10">
+    <LineStyle>
+      <color>40000000</color>
+      <width>3</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>73003366</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="style8">
+    <LineStyle>
+      <color>40000000</color>
+      <width>3</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>73FFFF99</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="style12">
+    <LineStyle>
+      <color>40000000</color>
+      <width>3</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>73FFFF99</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="style3">
+    <LineStyle>
+      <color>40000000</color>
+      <width>3</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>730066FF</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="style13">
+    <LineStyle>
+      <color>40000000</color>
+      <width>3</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>733399CC</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="style2">
+    <LineStyle>
+      <color>40000000</color>
+      <width>3</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>730000FF</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="style7">
+    <LineStyle>
+      <color>40000000</color>
+      <width>3</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>73003300</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="style17">
+    <LineStyle>
+      <color>40000000</color>
+      <width>3</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>9900FFFF</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="style11">
+    <LineStyle>
+      <color>40000000</color>
+      <width>3</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>733399CC</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="style14">
+    <LineStyle>
+      <color>40000000</color>
+      <width>3</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>73663366</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="style5">
+    <LineStyle>
+      <color>40000000</color>
+      <width>3</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>73663366</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="style4">
+    <LineStyle>
+      <color>40000000</color>
+      <width>3</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>73FF99FF</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Placemark>
+    <name>Downtown</name>
+    <description><![CDATA[The Downtown Houston district has been completely revamped, and is now a vibrant neighborhood with more than 4,000 residents. Over the past decade, more than 4 billion dollars have been invested in the area, and as a result, the downtown area is booming with development. Over 150 restaurants and clubs have opened since 1997, and the historic district has become one of Houston’s most popular nightlife destinations. Houston has also moved many of its professional sporting arenas downtown including the Rocket’s Toyota Center and the Astros Minute Maid Park. <br><br>
+<a href="http://www.houstontexasrealestate.com/neighborhood.php?id=6">View the Downtown neighborhood profile...</a><br>
+<a href="http://www.houstontexasrealestate.com/listings.php?id=Downtown">View Downtown home listings...</a>]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -95.344849,29.768700,0.000000
+            -95.350685,29.763186,0.000000
+            -95.352058,29.760056,0.000000
+            -95.362701,29.746197,0.000000
+            -95.373688,29.752754,0.000000
+            -95.375061,29.761993,0.000000
+            -95.369225,29.764824,0.000000
+            -95.364929,29.770784,0.000000
+            -95.359612,29.767954,0.000000
+            -95.351372,29.770636,0.000000
+            -95.344849,29.768700,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Midtown</name>
+    <description><![CDATA[Midtown is all about location. Situated in between Downtown Houston and the Medical Center, residents of this newly renovated and upscale neighborhood never have to travel very far. Just a few miles South of Downtown and a quick METROrail ride from Minute Maid Park, the Museum District, or the Toyota Center, Midtown is truly located in the heart of the city. Known as Houston’s newest hotspot, Midtown is filled with popular restaurants, clubs, and bars that are all within walking distance of each other. The ability to hop from bar to bar makes it extremely popular amongst Houston’s young professionals and students attending the University of Houston, Texas Southern University, and Rice. 
+<br><br>
+<a href="http://www.houstontexasrealestate.com/neighborhood.php?id=1">View the Midtown neighborhood profile...</a><br>
+<a href="http://www.houstontexasrealestate.com/listings.php?id=Midtown">View Midtown home listings...</a>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -95.377296,29.759758,0.000000
+            -95.376091,29.750816,0.000000
+            -95.364594,29.744259,0.000000
+            -95.372482,29.734421,0.000000
+            -95.390511,29.733377,0.000000
+            -95.390678,29.744408,0.000000
+            -95.381584,29.745451,0.000000
+            -95.381927,29.761696,0.000000
+            -95.377296,29.759758,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Montrose</name>
+    <description><![CDATA[Known as the most eccentric and diverse neighborhood in Houston, Montrose is home to some of the best restaurants, bars, clubs, and live music venues in the entire city. Living up to its reputation an artsy community, the streets are lined with retro furniture stores, tattoo parlors, psychics, and trendy yet down to earth coffee shops. The main area of Montrose / Neartown extends about 4 square miles, and currently has around 30,000 residents.<br><br>
+<a href="http://www.houstontexasrealestate.com/neighborhood.php?id=3">View the Midtown neighborhood profile...</a><br>
+<a href="http://www.houstontexasrealestate.com/listings.php?id=Montrose">View Midtown home listings...</a>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -95.402351,29.760204,0.000000
+            -95.382790,29.761845,0.000000
+            -95.381927,29.745897,0.000000
+            -95.391708,29.744408,0.000000
+            -95.391197,29.733677,0.000000
+            -95.402016,29.732334,0.000000
+            -95.402351,29.760204,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>West University</name>
+    <description><![CDATA[The Rice Village, also known as West U or The Village is one of Houston oldest and most well known shopping areas. Unlike the indoor and air-conditioned Houston Galleria, the stores are located in strip centers creating a pedestrian friendly shopping extravaganza. Shoppers will find all the national chains along with numerous one-off local boutiques. Since the entire retail district of the Rice Village is only a few blocks, please just park their cars and walk from store to store. 
+<br><br>
+<a href="http://www.houstontexasrealestate.com/neighborhood.php?id=5">View the West University neighborhood profile...</a><br>
+<a href="http://www.houstontexasrealestate.com/listings.php?id=West+University">View West University home listings...</a>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -95.386047,29.730694,0.000000
+            -95.406647,29.706841,0.000000
+            -95.448189,29.706543,0.000000
+            -95.448875,29.728310,0.000000
+            -95.386047,29.730694,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>The Heights</name>
+    <description><![CDATA[Just North of the eclectic Montrose district and minutes from Downtown, The Houston Heights is one of the city’s fastest growing neighborhoods. Located in the heart of inner loop, the Heights combine extremely short commute times with an abundance of outdoor and recreational activities. With 5 parks and numerous walking, jogging, and biking trails, residents of this up and coming neighborhood have more than enough incentive to enjoy the great outdoors.
+<br><br>
+<a href="http://www.houstontexasrealestate.com/neighborhood.php?id=2">View the Heights neighborhood profile...</a><br>
+<a href="http://www.houstontexasrealestate.com/listings.php?id=Houston+Heights">View Heights home listings...</a>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -95.411110,29.804604,0.000000
+            -95.373344,29.804901,0.000000
+            -95.373344,29.789707,0.000000
+            -95.370598,29.779875,0.000000
+            -95.378151,29.781364,0.000000
+            -95.386391,29.778980,0.000000
+            -95.398407,29.777788,0.000000
+            -95.410767,29.780172,0.000000
+            -95.411110,29.804604,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>The Galleria</name>
+    <description><![CDATA[Located in the center of town just west of 610 and built up around the major intersection of Westheimer and Post Oak, The Galleria is one of the largest shopping malls in the United States and is the namesake for the area that surrounds it. Its central location in the city has allowed it to develop into one of the few areas in town that is equally suitable for entertainment, business, and living.
+<br><br>
+<a href="http://www.houstontexasrealestate.com/neighborhood.php?id=15">View the Galleria neighborhood profile...</a><br>
+<a href="http://www.houstontexasrealestate.com/listings.php?id=The+Galleria">View the Galleria home listings...</a>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -95.471191,29.750816,0.000000
+            -95.458832,29.750668,0.000000
+            -95.456596,29.746941,0.000000
+            -95.457802,29.741278,0.000000
+            -95.453171,29.741278,0.000000
+            -95.453339,29.731888,0.000000
+            -95.461235,29.730099,0.000000
+            -95.468445,29.727118,0.000000
+            -95.476517,29.726969,0.000000
+            -95.477547,29.750668,0.000000
+            -95.471191,29.750816,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Bellaire</name>
+    <description><![CDATA[Nine miles southwest of downtown Houston, Bellaire has experienced tremendous growth over the past few years. Completely separate from the city of Houston with its own Mayor, City Council, and Police Department, Bellaire gives its residents a small town feel right in the heart of the big city. Known as the city homes, Bellaire has become extremely popular amongst families looking for a quiet place with the conveniences of the city.<br><br>
+<a href="http://www.houstontexasrealestate.com/neighborhood.php?id=10">View the Bellaire neighborhood profile...</a><br>
+<a href="http://www.houstontexasrealestate.com/listings.php?id=Bellaire">View Bellaire home listings...</a>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -95.493164,29.713102,0.000000
+            -95.470848,29.714296,0.000000
+            -95.449219,29.728310,0.000000
+            -95.448875,29.706543,0.000000
+            -95.407333,29.706841,0.000000
+            -95.428276,29.680000,0.000000
+            -95.458145,29.681789,0.000000
+            -95.487328,29.676123,0.000000
+            -95.497284,29.679106,0.000000
+            -95.507927,29.676123,0.000000
+            -95.510330,29.692228,0.000000
+            -95.516510,29.699982,0.000000
+            -95.513763,29.703562,0.000000
+            -95.493164,29.713102,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>River Oaks</name>
+    <description><![CDATA[River Oaks is the most expensive neighborhood in Houston and is home to some of the largest mansions in all of Texas. Situated inside the 610 loop, less than 7 miles from downtown, residents of this affluent suburb have easy access to downtown, the medical center, and the Galleria area. <br><br>
+<a href="http://www.houstontexasrealestate.com/neighborhood.php?id=9">View the River Oaks neighborhood profile...</a><br>
+<a href="http://www.houstontexasrealestate.com/listings.php?id=River+Oaks">View River Oaks home listings...</a>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -95.402702,29.759012,0.000000
+            -95.402527,29.742693,0.000000
+            -95.430511,29.742321,0.000000
+            -95.430336,29.751860,0.000000
+            -95.426987,29.750891,0.000000
+            -95.421326,29.752157,0.000000
+            -95.420547,29.756702,0.000000
+            -95.416862,29.756702,0.000000
+            -95.412827,29.759758,0.000000
+            -95.406731,29.760353,0.000000
+            -95.402702,29.759012,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Memorial</name>
+    <description><![CDATA[One of the Wealthiest neighborhoods in Houston, Memorial is divided into 5 villages which operate completely separately from the city of Houston. Bunker Hill Village, Hedwig Village, Spring Valley, Piney Point Village, and Hunters Creek Village all have their own police and fire departments as well as their own community bylaws. Approximately 20 miles West of Downtown, the Memorial area also home to the Houston Galleria which is the 7th largest mall in America. In addition to great restaurants and shopping, Memorial park is the largest urban park in the United States with 1,500 acres of jogging and biking trails, tennis courts, volleyball nets, and just about any other outdoor sport you can imagine. Another major factor that draws the wealthy to memorial are the excellent public schools. 
+<br><br>
+<a href="http://www.houstontexasrealestate.com/neighborhood.php?id=4">View the Memorial neighborhood profile...</a><br>
+<a href="http://www.houstontexasrealestate.com/listings.php?id=Memorial">View Memorial home listings...</a>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -95.455399,29.765570,0.000000
+            -95.502777,29.752157,0.000000
+            -95.556679,29.748281,0.000000
+            -95.557709,29.764078,0.000000
+            -95.563889,29.771828,0.000000
+            -95.563889,29.784939,0.000000
+            -95.545349,29.784344,0.000000
+            -95.544662,29.794771,0.000000
+            -95.505867,29.802816,0.000000
+            -95.500374,29.803411,0.000000
+            -95.499687,29.785236,0.000000
+            -95.456772,29.783449,0.000000
+            -95.455399,29.765570,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Sugar Land</name>
+    <description><![CDATA[Sugar Land is one of the fastest growing cities in America, and was recently ranked third on CNN/Money’s list of the 100 best places to live in the United States. This explosive growth has been fueled by the local economy which is home to Imperial Sugar, Western Airways, and a myriad of small energy and technology companies. In fact, so many corporations have been lured to the Sugar Land area that Texas Business Magazine named it the top city in Texas for business expansion and relocation.
+<br><br>
+<a href="http://www.houstontexasrealestate.com/neighborhood.php?id=14">View the Sugar Land neighborhood profile...</a><br>
+<a href="http://www.houstontexasrealestate.com/listings.php?id=Sugar+Land">View Sugar Land home listings...</a>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -95.566635,29.655239,0.000000
+            -95.618134,29.661802,0.000000
+            -95.646286,29.661205,0.000000
+            -95.649719,29.615252,0.000000
+            -95.622253,29.599133,0.000000
+            -95.592728,29.628384,0.000000
+            -95.564575,29.619431,0.000000
+            -95.566635,29.655239,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Spring</name>
+    <description><![CDATA[Spring is located about 25 miles north of downtown, just a few miles from The Woodlands (an expensive north Houston suburb). Primarily a family oriented area, Spring has countless family-friendly activities including the Six Flags Splashtown water park, numerous hiking and biking trails, Old Town Spring (historic shopping district), and rumor has it that an upscale outdoor shopping plaza called Vintage Park will be opening in early 2008.
+<br><br>
+<a href="http://www.houstontexasrealestate.com/neighborhood.php?id=13">View the Spring neighborhood profile...</a><br>
+<a href="http://www.houstontexasrealestate.com/listings.php?id=Spring">View Spring home listings...</a>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -95.435486,30.104742,0.000000
+            -95.412140,30.094643,0.000000
+            -95.411453,30.080383,0.000000
+            -95.382614,30.087515,0.000000
+            -95.379181,30.072065,0.000000
+            -95.361328,30.061369,0.000000
+            -95.347595,30.047106,0.000000
+            -95.378494,30.028679,0.000000
+            -95.383301,30.041756,0.000000
+            -95.399094,30.035810,0.000000
+            -95.405960,30.026894,0.000000
+            -95.432053,30.023327,0.000000
+            -95.539169,29.968021,0.000000
+            -95.573502,30.026894,0.000000
+            -95.537109,30.050077,0.000000
+            -95.516510,30.052454,0.000000
+            -95.509644,30.044727,0.000000
+            -95.436172,30.076225,0.000000
+            -95.435486,30.104742,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>The Woodlands</name>
+    <description><![CDATA[Located just north of Intercontinental Airport up I-45, The Woodlands is one of Houston's more affluent suburbs. Fifteen to twenty years ago, it was a developing area whose major draw was space and an escape from the city life. Today, however, the Houston Woodlands is a fully developed community that has all of the conveniences of the city within a minute drive.<br><br>
+<a href="http://www.houstontexasrealestate.com/neighborhood.php?id=11">View the Woodlands neighborhood profile...</a><br>
+<a href="http://www.houstontexasrealestate.com/listings.php?id=Woodlands">View Woodlands home listings...</a>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -95.531616,30.222881,0.000000
+            -95.493164,30.200333,0.000000
+            -95.478745,30.179560,0.000000
+            -95.453339,30.186090,0.000000
+            -95.438919,30.171249,0.000000
+            -95.429993,30.128500,0.000000
+            -95.457458,30.128500,0.000000
+            -95.456772,30.114840,0.000000
+            -95.495911,30.116028,0.000000
+            -95.513077,30.159971,0.000000
+            -95.556335,30.176594,0.000000
+            -95.585175,30.175999,0.000000
+            -95.592728,30.189651,0.000000
+            -95.571442,30.212202,0.000000
+            -95.531616,30.222881,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Katy</name>
+    <description><![CDATA[Katy has a good mix of affordable housing and pricier, larger homes. Originally, Katy was a suburb that catered to those who wanted the luxury of more space (both acerage and square footage) for a fraction of the cost in the city. However, as the area has become more and more popular for both young families as well as older couples jaded of the fast paced city life, prices have begun to increase. Katy is, though, still generally more affordable than the Woodlands and Kingwood suburbs.
+<br><br>
+<a href="http://www.houstontexasrealestate.com/neighborhood.php?id=12">View the Katy neighborhood profile...</a><br>
+<a href="http://www.houstontexasrealestate.com/listings.php?id=Katy">View Katy home listings...</a>]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -95.833740,29.832306,0.000000
+            -95.805588,29.832901,0.000000
+            -95.809021,29.807880,0.000000
+            -95.776749,29.813242,0.000000
+            -95.778122,29.787025,0.000000
+            -95.720444,29.786428,0.000000
+            -95.715637,29.761993,0.000000
+            -95.734177,29.738148,0.000000
+            -95.772629,29.713102,0.000000
+            -95.776062,29.699387,0.000000
+            -95.795288,29.700579,0.000000
+            -95.837173,29.752455,0.000000
+            -95.837173,29.778683,0.000000
+            -95.859833,29.781067,0.000000
+            -95.857086,29.795368,0.000000
+            -95.842667,29.797155,0.000000
+            -95.833740,29.832306,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Pasadena</name>
+    <description><![CDATA[<a href="http://www.houstontexasrealestate.com/listings.php?id=Pasadena">View Pasadena home listings...</a>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -95.266571,29.713102,0.000000
+            -95.151215,29.715488,0.000000
+            -95.156708,29.679701,0.000000
+            -95.158081,29.647482,0.000000
+            -95.204773,29.609282,0.000000
+            -95.289917,29.698790,0.000000
+            -95.266571,29.713102,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Deer Park</name>
+    <description><![CDATA[<a href="http://www.houstontexasrealestate.com/listings.php?id=Deer+Park">View Deer Park home listings...</a>]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -95.148460,29.711910,0.000000
+            -95.121002,29.711910,0.000000
+            -95.031731,29.686859,0.000000
+            -95.031731,29.648670,0.000000
+            -95.156700,29.652250,0.000000
+            -95.148460,29.711910,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Kingwood</name>
+    <description><![CDATA[<a href="http://www.houstontexasrealestate.com/listings.php?id=Kingwood">View Kingwood home listings...</a>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -95.244598,30.092861,0.000000
+            -95.133362,30.091673,0.000000
+            -95.086670,30.026300,0.000000
+            -95.288544,29.945415,0.000000
+            -95.244598,30.092861,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Lake Conroe</name>
+    <description><![CDATA[<a href="http://www.houstontexasrealestate.com/listings.php?id=Lake+Conroe">View Lake Conroe home listings...</a>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -95.478058,30.347992,0.000000
+            -95.390167,30.347992,0.000000
+            -95.391541,30.273300,0.000000
+            -95.509644,30.272114,0.000000
+            -95.545349,30.325472,0.000000
+            -95.696411,30.388277,0.000000
+            -95.696411,30.429729,0.000000
+            -95.646973,30.594183,0.000000
+            -95.592041,30.594183,0.000000
+            -95.478058,30.347992,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+</Document>
+</kml>

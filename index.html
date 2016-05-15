@@ -10,15 +10,27 @@
 		<script type='text/javascript' src='script.js'></script>
 		<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
 		<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+		<script src="geoData.js"></script>
 
 		<div class="container-fluid">
 			<div class="titlebar row">
 				<div class="col-md-4 title">Residents at Risk
 				</div>
 				<div class="col-md-4 search-bar text-center">
-					Precinct 6
+					Greater Houston
 				</div>
 				<div class="col-md-1 fa fa-search fa-2x icon">
+				</div>
+				<div class="col-md-1 maptab">
+					<h4 class="showmap1 active">Evictions</h4>
+				</div>
+				<div class="col-md-1 maptab">
+					<h4 class="showmap2">Property Tax</h4>
+				</div>
+				<div class="col-md-1 maptab">
+					<h4 class="showmap3">House Value</h4>
+				</div>
+					<br>
 				</div>
 			</div>
 			<div class="row">
@@ -36,8 +48,130 @@
 
 					</ul>
 				</div>
-				<div class="col-md-8 map">
-				</div>
+				<div class="map" id="map1"></div>
+<div class="map" id="map2"></div>
+<div class="map" id="map3"></div>
+<script>
+    var map, map2, map3;
+
+    function lookup(zip) {
+        for(var i = 0 ; i < evictions.length; ++i) {
+            if(evictions[i]["DefendantAddressZIP1"] === zip) {
+                return evictions[i]["numberofevictions"];
+            }
+        }
+        return -1;
+    }
+
+    function lookupPT(zip) {
+        for(var i = 0 ; i < stats.length; ++i) {
+            if(stats[i]["zip"] === zip) {
+                return stats[i]["propTax"];
+            }
+        }
+        return -1;
+    }
+
+    function lookupHV(zip) {
+        for(var i = 0 ; i < stats.length; ++i) {
+            if(stats[i]["zip"] === zip) {
+                return stats[i]["houseVal"];
+            }
+        }
+        return -1;
+    }
+
+    function maxE() {
+        var max = 0;
+        for(var i = 0 ; i < evictions.length; ++i) {
+            max = Math.max(evictions[i]["numberofevictions"], max);
+        }
+        return max;
+    }
+
+    function maxPT() {
+        var max = 0;
+        for(var i = 0 ; i < stats.length; ++i) {
+            max = Math.max(stats[i]["propTax"], max);
+        }
+        return max;
+    }
+
+    function maxHV() {
+        var max = 0;
+        for(var i = 0 ; i < stats.length; ++i) {
+            max = Math.max(stats[i]["houseVal"], max);
+        }
+        return max;
+    }
+
+    function setPolygons() {
+
+        var max = maxE();
+        var max2 = maxHV();
+        var max3 = maxPT();
+
+        for(var i = 0; i < geoJson.features.length; ++i) {
+            var coords = geoJson.features[i].geometry.coordinates[0];
+
+            coords.zip = zips[i];
+            coords.evictions = lookup(coords.zip);
+            coords.hv = lookupHV(coords.zip);
+            coords.pt = lookupPT(coords.zip);
+
+            var latlng = [];
+            for(var j = 0; j < coords.length; ++j) {
+                if(!isNaN(coords[j][1]) && !isNaN(coords[j][0])) {
+                    latlng.push({lat: coords[j][1], lng: coords[j][0]});
+                }
+            }
+            var area = new google.maps.Polygon({
+                paths: latlng,
+                fillColor: coords.evictions >= 0 ? '#FF0000' : '#232323',
+                strokeOpacity: 0.7,
+                strokeWeight: 0,
+                fillOpacity: 0.7 * coords.evictions / max + 0.2
+            });
+
+            var area2 = new google.maps.Polygon({
+                paths: latlng,
+                fillColor: coords.hv >= 0 ? '#00ac64' : '#232323',
+                strokeOpacity: 0.7,
+                strokeWeight: 0,
+                fillOpacity: 0.7 * coords.hv / max2 + 0.2
+            });
+
+            var area3 = new google.maps.Polygon({
+                paths: latlng,
+                fillColor: coords.pt >= 0 ? '#108ccb' : '#232323',
+                strokeOpacity: 0.7,
+                strokeWeight: 0,
+                fillOpacity: 0.7 * coords.pt / max3 + 0.2
+            });
+            area.setMap(map);
+            area2.setMap(map2);
+            area3.setMap(map3);
+        }
+    }
+
+    function initMap() {
+        map = new google.maps.Map(document.getElementById('map1'), {
+            center: {lat: 29.7604, lng: -95.3698},
+            zoom: 10
+        });
+        map2 = new google.maps.Map(document.getElementById('map2'), {
+            center: {lat: 29.7604, lng: -95.3698},
+            zoom: 10
+        });
+        map3 = new google.maps.Map(document.getElementById('map3'), {
+            center: {lat: 29.7604, lng: -95.3698},
+            zoom: 10
+        });
+        setPolygons();
+    }
+</script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAWn05Uo-58AiPAAl2dpsidBRpw0wUTjCU&callback=initMap"
+        async defer></script>
 			</div>
 			<div class="bottombar container-fluid">
 				<div class="row">

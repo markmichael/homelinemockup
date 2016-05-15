@@ -1,0 +1,642 @@
+[
+  {
+    "DefendantAddressZIP1": 77090,
+    "numberofevictions": 1378
+  },
+  {
+    "DefendantAddressZIP1": 77060,
+    "numberofevictions": 1217
+  },
+  {
+    "DefendantAddressZIP1": 77082,
+    "numberofevictions": 1029
+  },
+  {
+    "DefendantAddressZIP1": 77036,
+    "numberofevictions": 793
+  },
+  {
+    "DefendantAddressZIP1": 77014,
+    "numberofevictions": 666
+  },
+  {
+    "DefendantAddressZIP1": 77061,
+    "numberofevictions": 656
+  },
+  {
+    "DefendantAddressZIP1": 77015,
+    "numberofevictions": 651
+  },
+  {
+    "DefendantAddressZIP1": 77077,
+    "numberofevictions": 637
+  },
+  {
+    "DefendantAddressZIP1": 77042,
+    "numberofevictions": 605
+  },
+  {
+    "DefendantAddressZIP1": 77021,
+    "numberofevictions": 598
+  },
+  {
+    "DefendantAddressZIP1": 77084,
+    "numberofevictions": 588
+  },
+  {
+    "DefendantAddressZIP1": 77073,
+    "numberofevictions": 585
+  },
+  {
+    "DefendantAddressZIP1": 77035,
+    "numberofevictions": 580
+  },
+  {
+    "DefendantAddressZIP1": 77067,
+    "numberofevictions": 551
+  },
+  {
+    "DefendantAddressZIP1": 77449,
+    "numberofevictions": 532
+  },
+  {
+    "DefendantAddressZIP1": 77099,
+    "numberofevictions": 522
+  },
+  {
+    "DefendantAddressZIP1": 77004,
+    "numberofevictions": 488
+  },
+  {
+    "DefendantAddressZIP1": 77396,
+    "numberofevictions": 458
+  },
+  {
+    "DefendantAddressZIP1": 77521,
+    "numberofevictions": 452
+  },
+  {
+    "DefendantAddressZIP1": 77081,
+    "numberofevictions": 450
+  },
+  {
+    "DefendantAddressZIP1": 77034,
+    "numberofevictions": 437
+  },
+  {
+    "DefendantAddressZIP1": 77065,
+    "numberofevictions": 436
+  },
+  {
+    "DefendantAddressZIP1": 77088,
+    "numberofevictions": 434
+  },
+  {
+    "DefendantAddressZIP1": 77373,
+    "numberofevictions": 432
+  },
+  {
+    "DefendantAddressZIP1": 77063,
+    "numberofevictions": 427
+  },
+  {
+    "DefendantAddressZIP1": 77040,
+    "numberofevictions": 424
+  },
+  {
+    "DefendantAddressZIP1": 77016,
+    "numberofevictions": 400
+  },
+  {
+    "DefendantAddressZIP1": 77338,
+    "numberofevictions": 399
+  },
+  {
+    "DefendantAddressZIP1": 77072,
+    "numberofevictions": 398
+  },
+  {
+    "DefendantAddressZIP1": 77095,
+    "numberofevictions": 393
+  },
+  {
+    "DefendantAddressZIP1": 77026,
+    "numberofevictions": 391
+  },
+  {
+    "DefendantAddressZIP1": 77057,
+    "numberofevictions": 389
+  },
+  {
+    "DefendantAddressZIP1": 77074,
+    "numberofevictions": 374
+  },
+  {
+    "DefendantAddressZIP1": 77091,
+    "numberofevictions": 368
+  },
+  {
+    "DefendantAddressZIP1": 77520,
+    "numberofevictions": 353
+  },
+  {
+    "DefendantAddressZIP1": 77096,
+    "numberofevictions": 343
+  },
+  {
+    "DefendantAddressZIP1": 77089,
+    "numberofevictions": 334
+  },
+  {
+    "DefendantAddressZIP1": 77092,
+    "numberofevictions": 327
+  },
+  {
+    "DefendantAddressZIP1": 77044,
+    "numberofevictions": 318
+  },
+  {
+    "DefendantAddressZIP1": 77071,
+    "numberofevictions": 316
+  },
+  {
+    "DefendantAddressZIP1": 77506,
+    "numberofevictions": 311
+  },
+  {
+    "DefendantAddressZIP1": 77375,
+    "numberofevictions": 309
+  },
+  {
+    "DefendantAddressZIP1": 77058,
+    "numberofevictions": 307
+  },
+  {
+    "DefendantAddressZIP1": 77054,
+    "numberofevictions": 298
+  },
+  {
+    "DefendantAddressZIP1": 77502,
+    "numberofevictions": 291
+  },
+  {
+    "DefendantAddressZIP1": 77033,
+    "numberofevictions": 289
+  },
+  {
+    "DefendantAddressZIP1": 77598,
+    "numberofevictions": 285
+  },
+  {
+    "DefendantAddressZIP1": 77032,
+    "numberofevictions": 284
+  },
+  {
+    "DefendantAddressZIP1": 77064,
+    "numberofevictions": 274
+  },
+  {
+    "DefendantAddressZIP1": 77047,
+    "numberofevictions": 266
+  },
+  {
+    "DefendantAddressZIP1": 77070,
+    "numberofevictions": 265
+  },
+  {
+    "DefendantAddressZIP1": 77429,
+    "numberofevictions": 250
+  },
+  {
+    "DefendantAddressZIP1": 77051,
+    "numberofevictions": 248
+  },
+  {
+    "DefendantAddressZIP1": 77083,
+    "numberofevictions": 246
+  },
+  {
+    "DefendantAddressZIP1": 77080,
+    "numberofevictions": 240
+  },
+  {
+    "DefendantAddressZIP1": 77075,
+    "numberofevictions": 237
+  },
+  {
+    "DefendantAddressZIP1": 77020,
+    "numberofevictions": 231
+  },
+  {
+    "DefendantAddressZIP1": 77379,
+    "numberofevictions": 230
+  },
+  {
+    "DefendantAddressZIP1": 77093,
+    "numberofevictions": 230
+  },
+  {
+    "DefendantAddressZIP1": 77433,
+    "numberofevictions": 229
+  },
+  {
+    "DefendantAddressZIP1": 77028,
+    "numberofevictions": 224
+  },
+  {
+    "DefendantAddressZIP1": 77068,
+    "numberofevictions": 223
+  },
+  {
+    "DefendantAddressZIP1": 77450,
+    "numberofevictions": 219
+  },
+  {
+    "DefendantAddressZIP1": 77571,
+    "numberofevictions": 217
+  },
+  {
+    "DefendantAddressZIP1": 77056,
+    "numberofevictions": 212
+  },
+  {
+    "DefendantAddressZIP1": 77045,
+    "numberofevictions": 211
+  },
+  {
+    "DefendantAddressZIP1": 77530,
+    "numberofevictions": 208
+  },
+  {
+    "DefendantAddressZIP1": 77048,
+    "numberofevictions": 198
+  },
+  {
+    "DefendantAddressZIP1": 77069,
+    "numberofevictions": 195
+  },
+  {
+    "DefendantAddressZIP1": 77055,
+    "numberofevictions": 194
+  },
+  {
+    "DefendantAddressZIP1": 77031,
+    "numberofevictions": 191
+  },
+  {
+    "DefendantAddressZIP1": 77076,
+    "numberofevictions": 191
+  },
+  {
+    "DefendantAddressZIP1": 77503,
+    "numberofevictions": 189
+  },
+  {
+    "DefendantAddressZIP1": 77504,
+    "numberofevictions": 181
+  },
+  {
+    "DefendantAddressZIP1": 77009,
+    "numberofevictions": 175
+  },
+  {
+    "DefendantAddressZIP1": 77078,
+    "numberofevictions": 174
+  },
+  {
+    "DefendantAddressZIP1": 77017,
+    "numberofevictions": 173
+  },
+  {
+    "DefendantAddressZIP1": 77087,
+    "numberofevictions": 172
+  },
+  {
+    "DefendantAddressZIP1": 77018,
+    "numberofevictions": 171
+  },
+  {
+    "DefendantAddressZIP1": 77049,
+    "numberofevictions": 171
+  },
+  {
+    "DefendantAddressZIP1": 77066,
+    "numberofevictions": 167
+  },
+  {
+    "DefendantAddressZIP1": 77013,
+    "numberofevictions": 162
+  },
+  {
+    "DefendantAddressZIP1": 77346,
+    "numberofevictions": 147
+  },
+  {
+    "DefendantAddressZIP1": 77039,
+    "numberofevictions": 140
+  },
+  {
+    "DefendantAddressZIP1": 77022,
+    "numberofevictions": 138
+  },
+  {
+    "DefendantAddressZIP1": 77086,
+    "numberofevictions": 134
+  },
+  {
+    "DefendantAddressZIP1": 77003,
+    "numberofevictions": 133
+  },
+  {
+    "DefendantAddressZIP1": 77336,
+    "numberofevictions": 129
+  },
+  {
+    "DefendantAddressZIP1": 77023,
+    "numberofevictions": 128
+  },
+  {
+    "DefendantAddressZIP1": 77027,
+    "numberofevictions": 125
+  },
+  {
+    "DefendantAddressZIP1": 77038,
+    "numberofevictions": 122
+  },
+  {
+    "DefendantAddressZIP1": 77079,
+    "numberofevictions": 118
+  },
+  {
+    "DefendantAddressZIP1": 77494,
+    "numberofevictions": 118
+  },
+  {
+    "DefendantAddressZIP1": 77505,
+    "numberofevictions": 111
+  },
+  {
+    "DefendantAddressZIP1": 77025,
+    "numberofevictions": 109
+  },
+  {
+    "DefendantAddressZIP1": 77587,
+    "numberofevictions": 106
+  },
+  {
+    "DefendantAddressZIP1": 77062,
+    "numberofevictions": 102
+  },
+  {
+    "DefendantAddressZIP1": 77002,
+    "numberofevictions": 101
+  },
+  {
+    "DefendantAddressZIP1": 77043,
+    "numberofevictions": 99
+  },
+  {
+    "DefendantAddressZIP1": 77041,
+    "numberofevictions": 92
+  },
+  {
+    "DefendantAddressZIP1": 77053,
+    "numberofevictions": 89
+  },
+  {
+    "DefendantAddressZIP1": 77011,
+    "numberofevictions": 86
+  },
+  {
+    "DefendantAddressZIP1": 77532,
+    "numberofevictions": 81
+  },
+  {
+    "DefendantAddressZIP1": 77012,
+    "numberofevictions": 75
+  },
+  {
+    "DefendantAddressZIP1": 77562,
+    "numberofevictions": 75
+  },
+  {
+    "DefendantAddressZIP1": 77388,
+    "numberofevictions": 74
+  },
+  {
+    "DefendantAddressZIP1": 77006,
+    "numberofevictions": 73
+  },
+  {
+    "DefendantAddressZIP1": 77536,
+    "numberofevictions": 72
+  },
+  {
+    "DefendantAddressZIP1": 77024,
+    "numberofevictions": 71
+  },
+  {
+    "DefendantAddressZIP1": 77029,
+    "numberofevictions": 70
+  },
+  {
+    "DefendantAddressZIP1": 77546,
+    "numberofevictions": 70
+  },
+  {
+    "DefendantAddressZIP1": 77339,
+    "numberofevictions": 69
+  },
+  {
+    "DefendantAddressZIP1": 77007,
+    "numberofevictions": 67
+  },
+  {
+    "DefendantAddressZIP1": 77085,
+    "numberofevictions": 67
+  },
+  {
+    "DefendantAddressZIP1": 77037,
+    "numberofevictions": 66
+  },
+  {
+    "DefendantAddressZIP1": 77493,
+    "numberofevictions": 66
+  },
+  {
+    "DefendantAddressZIP1": 77586,
+    "numberofevictions": 65
+  },
+  {
+    "DefendantAddressZIP1": 77019,
+    "numberofevictions": 61
+  },
+  {
+    "DefendantAddressZIP1": 77098,
+    "numberofevictions": 53
+  },
+  {
+    "DefendantAddressZIP1": 77389,
+    "numberofevictions": 53
+  },
+  {
+    "DefendantAddressZIP1": 77008,
+    "numberofevictions": 51
+  },
+  {
+    "DefendantAddressZIP1": 77377,
+    "numberofevictions": 44
+  },
+  {
+    "DefendantAddressZIP1": 77005,
+    "numberofevictions": 30
+  },
+  {
+    "DefendantAddressZIP1": 77477,
+    "numberofevictions": 23
+  },
+  {
+    "DefendantAddressZIP1": 77547,
+    "numberofevictions": 22
+  },
+  {
+    "DefendantAddressZIP1": 77030,
+    "numberofevictions": 19
+  },
+  {
+    "DefendantAddressZIP1": 77447,
+    "numberofevictions": 19
+  },
+  {
+    "DefendantAddressZIP1": 77050,
+    "numberofevictions": 18
+  },
+  {
+    "DefendantAddressZIP1": 77345,
+    "numberofevictions": 16
+  },
+  {
+    "DefendantAddressZIP1": 77523,
+    "numberofevictions": 12
+  },
+  {
+    "DefendantAddressZIP1": 77010,
+    "numberofevictions": 12
+  },
+  {
+    "DefendantAddressZIP1": 77489,
+    "numberofevictions": 7
+  },
+  {
+    "DefendantAddressZIP1": 77094,
+    "numberofevictions": 7
+  },
+  {
+    "DefendantAddressZIP1": 77401,
+    "numberofevictions": 6
+  },
+  {
+    "DefendantAddressZIP1": 77046,
+    "numberofevictions": 6
+  },
+  {
+    "DefendantAddressZIP1": 77059,
+    "numberofevictions": 6
+  },
+  {
+    "DefendantAddressZIP1": 77484,
+    "numberofevictions": 4
+  },
+  {
+    "DefendantAddressZIP1": 77581,
+    "numberofevictions": 3
+  },
+  {
+    "DefendantAddressZIP1": 77573,
+    "numberofevictions": 2
+  },
+  {
+    "DefendantAddressZIP1": 77459,
+    "numberofevictions": 2
+  },
+  {
+    "DefendantAddressZIP1": 77386,
+    "numberofevictions": 2
+  },
+  {
+    "DefendantAddressZIP1": 77498,
+    "numberofevictions": 2
+  },
+  {
+    "DefendantAddressZIP1": 78401,
+    "numberofevictions": 1
+  },
+  {
+    "DefendantAddressZIP1": 77507,
+    "numberofevictions": 1
+  },
+  {
+    "DefendantAddressZIP1": 77381,
+    "numberofevictions": 1
+  },
+  {
+    "DefendantAddressZIP1": 77255,
+    "numberofevictions": 1
+  },
+  {
+    "DefendantAddressZIP1": 78701,
+    "numberofevictions": 1
+  },
+  {
+    "DefendantAddressZIP1": 77868,
+    "numberofevictions": 1
+  },
+  {
+    "DefendantAddressZIP1": 76016,
+    "numberofevictions": 1
+  },
+  {
+    "DefendantAddressZIP1": 77402,
+    "numberofevictions": 1
+  },
+  {
+    "DefendantAddressZIP1": 77380,
+    "numberofevictions": 1
+  },
+  {
+    "DefendantAddressZIP1": 77589,
+    "numberofevictions": 1
+  },
+  {
+    "DefendantAddressZIP1": 77471,
+    "numberofevictions": 1
+  },
+  {
+    "DefendantAddressZIP1": 77289,
+    "numberofevictions": 1
+  },
+  {
+    "DefendantAddressZIP1": 77549,
+    "numberofevictions": 1
+  },
+  {
+    "DefendantAddressZIP1": 77352,
+    "numberofevictions": 1
+  },
+  {
+    "DefendantAddressZIP1": 70015,
+    "numberofevictions": 1
+  },
+  {
+    "DefendantAddressZIP1": 77478,
+    "numberofevictions": 1
+  },
+  {
+    "DefendantAddressZIP1": 77539,
+    "numberofevictions": 1
+  },
+  {
+    "DefendantAddressZIP1": 77443,
+    "numberofevictions": 1
+  }
+]

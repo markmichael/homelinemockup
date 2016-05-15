@@ -1,0 +1,422 @@
+[
+  {
+    "Zip code": 77002,
+    "2013 Mean house value": 208600,
+    "Mean property tax": 3712
+  },
+  {
+    "Zip code": 77003,
+    "2013 Mean house value": 162600,
+    "Mean property tax": 3470
+  },
+  {
+    "Zip code": 77004,
+    "2013 Mean house value": 191700,
+    "Mean property tax": 3160
+  },
+  {
+    "Zip code": 77005,
+    "2013 Mean house value": 754000,
+    "Mean property tax": 10001
+  },
+  {
+    "Zip code": 77006,
+    "2013 Mean house value": 327300,
+    "Mean property tax": 6063
+  },
+  {
+    "Zip code": 77007,
+    "2013 Mean house value": 308700,
+    "Mean property tax": 6237
+  },
+  {
+    "Zip code": 77008,
+    "2013 Mean house value": 292200,
+    "Mean property tax": 5270
+  },
+  {
+    "Zip code": 77009,
+    "2013 Mean house value": 163000,
+    "Mean property tax": 2894
+  },
+  {
+    "Zip code": 77011,
+    "2013 Mean house value": 80300,
+    "Mean property tax": 1197
+  },
+  {
+    "Zip code": 77012,
+    "2013 Mean house value": 82600,
+    "Mean property tax": 1444
+  },
+  {
+    "Zip code": 77013,
+    "2013 Mean house value": 84900,
+    "Mean property tax": 1653
+  },
+  {
+    "Zip code": 77014,
+    "2013 Mean house value": 119300,
+    "Mean property tax": 3501
+  },
+  {
+    "Zip code": 77016,
+    "2013 Mean house value": 63700,
+    "Mean property tax": 1062
+  },
+  {
+    "Zip code": 77017,
+    "2013 Mean house value": 86400,
+    "Mean property tax": 1590
+  },
+  {
+    "Zip code": 77018,
+    "2013 Mean house value": 218400,
+    "Mean property tax": 3575
+  },
+  {
+    "Zip code": 77019,
+    "2013 Mean house value": 378700,
+    "Mean property tax": 6643
+  },
+  {
+    "Zip code": 77020,
+    "2013 Mean house value": 70500,
+    "Mean property tax": 1237
+  },
+  {
+    "Zip code": 77021,
+    "2013 Mean house value": 83900,
+    "Mean property tax": 1693
+  },
+  {
+    "Zip code": 77022,
+    "2013 Mean house value": 81700,
+    "Mean property tax": 1412
+  },
+  {
+    "Zip code": 77023,
+    "2013 Mean house value": 102700,
+    "Mean property tax": 1750
+  },
+  {
+    "Zip code": 77025,
+    "2013 Mean house value": 331200,
+    "Mean property tax": 5601
+  },
+  {
+    "Zip code": 77026,
+    "2013 Mean house value": 59600,
+    "Mean property tax": 860
+  },
+  {
+    "Zip code": 77027,
+    "2013 Mean house value": 475900,
+    "Mean property tax": 8352
+  },
+  {
+    "Zip code": 77028,
+    "2013 Mean house value": 59100,
+    "Mean property tax": 1086
+  },
+  {
+    "Zip code": 77030,
+    "2013 Mean house value": 501100,
+    "Mean property tax": 7843
+  },
+  {
+    "Zip code": 77031,
+    "2013 Mean house value": 114900,
+    "Mean property tax": 2319
+  },
+  {
+    "Zip code": 77033,
+    "2013 Mean house value": 65600,
+    "Mean property tax": 963
+  },
+  {
+    "Zip code": 77034,
+    "2013 Mean house value": 99700,
+    "Mean property tax": 2385
+  },
+  {
+    "Zip code": 77035,
+    "2013 Mean house value": 156300,
+    "Mean property tax": 2493
+  },
+  {
+    "Zip code": 77036,
+    "2013 Mean house value": 113900,
+    "Mean property tax": 1957
+  },
+  {
+    "Zip code": 77038,
+    "2013 Mean house value": 86300,
+    "Mean property tax": 2208
+  },
+  {
+    "Zip code": 77040,
+    "2013 Mean house value": 121700,
+    "Mean property tax": 2714
+  },
+  {
+    "Zip code": 77041,
+    "2013 Mean house value": 137200,
+    "Mean property tax": 3533
+  },
+  {
+    "Zip code": 77042,
+    "2013 Mean house value": 211900,
+    "Mean property tax": 3322
+  },
+  {
+    "Zip code": 77043,
+    "2013 Mean house value": 140800,
+    "Mean property tax": 2379
+  },
+  {
+    "Zip code": 77045,
+    "2013 Mean house value": 85500,
+    "Mean property tax": 1491
+  },
+  {
+    "Zip code": 77046,
+    "2013 Mean house value": 295000,
+    "Mean property tax": 4066
+  },
+  {
+    "Zip code": 77047,
+    "2013 Mean house value": 103400,
+    "Mean property tax": 1942
+  },
+  {
+    "Zip code": 77048,
+    "2013 Mean house value": 81200,
+    "Mean property tax": 1407
+  },
+  {
+    "Zip code": 77050,
+    "2013 Mean house value": 73100,
+    "Mean property tax": 1168
+  },
+  {
+    "Zip code": 77051,
+    "2013 Mean house value": 58800,
+    "Mean property tax": 1101
+  },
+  {
+    "Zip code": 77053,
+    "2013 Mean house value": 85800,
+    "Mean property tax": 1656
+  },
+  {
+    "Zip code": 77054,
+    "2013 Mean house value": 119300,
+    "Mean property tax": 2608
+  },
+  {
+    "Zip code": 77056,
+    "2013 Mean house value": 555700,
+    "Mean property tax": 8913
+  },
+  {
+    "Zip code": 77057,
+    "2013 Mean house value": 224900,
+    "Mean property tax": 4091
+  },
+  {
+    "Zip code": 77058,
+    "2013 Mean house value": 158400,
+    "Mean property tax": 2956
+  },
+  {
+    "Zip code": 77059,
+    "2013 Mean house value": 243300,
+    "Mean property tax": 5821
+  },
+  {
+    "Zip code": 77061,
+    "2013 Mean house value": 113800,
+    "Mean property tax": 2079
+  },
+  {
+    "Zip code": 77062,
+    "2013 Mean house value": 160100,
+    "Mean property tax": 3690
+  },
+  {
+    "Zip code": 77063,
+    "2013 Mean house value": 176600,
+    "Mean property tax": 3054
+  },
+  {
+    "Zip code": 77064,
+    "2013 Mean house value": 133300,
+    "Mean property tax": 3182
+  },
+  {
+    "Zip code": 77065,
+    "2013 Mean house value": 140600,
+    "Mean property tax": 3041
+  },
+  {
+    "Zip code": 77066,
+    "2013 Mean house value": 114800,
+    "Mean property tax": 3037
+  },
+  {
+    "Zip code": 77067,
+    "2013 Mean house value": 94700,
+    "Mean property tax": 2719
+  },
+  {
+    "Zip code": 77068,
+    "2013 Mean house value": 165200,
+    "Mean property tax": 3713
+  },
+  {
+    "Zip code": 77069,
+    "2013 Mean house value": 206000,
+    "Mean property tax": 3573
+  },
+  {
+    "Zip code": 77070,
+    "2013 Mean house value": 154500,
+    "Mean property tax": 3207
+  },
+  {
+    "Zip code": 77071,
+    "2013 Mean house value": 117500,
+    "Mean property tax": 2360
+  },
+  {
+    "Zip code": 77072,
+    "2013 Mean house value": 94100,
+    "Mean property tax": 2026
+  },
+  {
+    "Zip code": 77073,
+    "2013 Mean house value": 108300,
+    "Mean property tax": 2812
+  },
+  {
+    "Zip code": 77074,
+    "2013 Mean house value": 104800,
+    "Mean property tax": 1894
+  },
+  {
+    "Zip code": 77075,
+    "2013 Mean house value": 114600,
+    "Mean property tax": 2664
+  },
+  {
+    "Zip code": 77076,
+    "2013 Mean house value": 86500,
+    "Mean property tax": 1675
+  },
+  {
+    "Zip code": 77077,
+    "2013 Mean house value": 208900,
+    "Mean property tax": 3816
+  },
+  {
+    "Zip code": 77078,
+    "2013 Mean house value": 70700,
+    "Mean property tax": 1051
+  },
+  {
+    "Zip code": 77079,
+    "2013 Mean house value": 326400,
+    "Mean property tax": 5022
+  },
+  {
+    "Zip code": 77080,
+    "2013 Mean house value": 130600,
+    "Mean property tax": 2219
+  },
+  {
+    "Zip code": 77081,
+    "2013 Mean house value": 217100,
+    "Mean property tax": 4063
+  },
+  {
+    "Zip code": 77082,
+    "2013 Mean house value": 124000,
+    "Mean property tax": 3268
+  },
+  {
+    "Zip code": 77083,
+    "2013 Mean house value": 124300,
+    "Mean property tax": 3081
+  },
+  {
+    "Zip code": 77085,
+    "2013 Mean house value": 106600,
+    "Mean property tax": 1997
+  },
+  {
+    "Zip code": 77086,
+    "2013 Mean house value": 93500,
+    "Mean property tax": 2414
+  },
+  {
+    "Zip code": 77087,
+    "2013 Mean house value": 84800,
+    "Mean property tax": 1511
+  },
+  {
+    "Zip code": 77088,
+    "2013 Mean house value": 93400,
+    "Mean property tax": 2083
+  },
+  {
+    "Zip code": 77090,
+    "2013 Mean house value": 138800,
+    "Mean property tax": 3052
+  },
+  {
+    "Zip code": 77091,
+    "2013 Mean house value": 95300,
+    "Mean property tax": 1758
+  },
+  {
+    "Zip code": 77092,
+    "2013 Mean house value": 130200,
+    "Mean property tax": 2143
+  },
+  {
+    "Zip code": 77093,
+    "2013 Mean house value": 75200,
+    "Mean property tax": 1269
+  },
+  {
+    "Zip code": 77094,
+    "2013 Mean house value": 295200,
+    "Mean property tax": 6784
+  },
+  {
+    "Zip code": 77095,
+    "2013 Mean house value": 167000,
+    "Mean property tax": 4016
+  },
+  {
+    "Zip code": 77096,
+    "2013 Mean house value": 255900,
+    "Mean property tax": 4238
+  },
+  {
+    "Zip code": 77098,
+    "2013 Mean house value": 424200,
+    "Mean property tax": 6937
+  },
+  {
+    "Zip code": 77099,
+    "2013 Mean house value": 96300,
+    "Mean property tax": 2197
+  },
+  {
+    "Zip code": 77201,
+    "2013 Mean house value": 352263,
+    "Mean property tax": 4358
+  }
+]

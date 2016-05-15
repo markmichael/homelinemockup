@@ -25,11 +25,14 @@
 	padding-top:55px;
 }
 .map{
-	background: url('precinct6.png');
 	height:70vh;
-	background-size:100%;
 	right:0px;
 	width:73vw !important;
+}
+.maptab{
+	color:white;
+	padding-top:6%;
+	text-align:center;
 }
 .neighborhoods{
 	color:#45819a;
@@ -71,4 +74,10 @@
 	font-size:20px;
 	margin-top:15px;
 	text-align:left;
+}
+.active{
+	border: 2px 2px 0px 2px;
+	border-color:white;
+	border-style:solid;
+	border-bottom-style:none;
 }
