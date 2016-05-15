@@ -39,7 +39,7 @@ $(document).ready(function(){
   $("#eastwood").mouseover(function(){
   	$(".totalevictions").text("3K EVICTIONS");
   	$(".avgpropertyvalue").text("AVG PROPERTY VALUE: $90K");
-  	$("neighborhoodname").text("EASTWOOD");
+  	$(".neighborhoodname").text("EASTWOOD");
   });
   $("#fifth").mouseover(function(){
   	$(".totalevictions").text("4K EVICTIONS");
