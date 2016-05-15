@@ -1,0 +1,70 @@
+.titlebar{
+	width:100vw;
+	height:15vh;
+	background-color: #8dc940;
+}
+
+.title{
+	padding-left:46px;
+	padding-top:42px;
+	font-size:40px;
+	font-family: sans-serif;
+	color: #ffffff;
+	display:inline-block;
+}
+.search-bar{
+	display:inline-block;
+	padding-top:42px;
+	font-size:40px;
+	font-family: sans-serif;
+	color: #ffffff;
+	border-bottom:solid white;
+}
+.icon{
+	color:white;
+	padding-top:55px;
+}
+.map{
+	background: url('precinct6.png');
+	height:70vh;
+	background-size:100%;
+}
+.neighborhoods{
+	color:#45819a;
+	font-size:28px;
+	padding-left:10px;
+}
+.neighborhood-title{
+	padding-left:10px;
+	font-size:40px;
+}
+.neighborhood-list{
+	list-style:none;
+}
+.bottombar{
+	background-color:#2aace3;
+	width:100%;
+	height:15vh;
+	position:absolute;
+	bottom:0;
+}
+.footertitle{
+	color:white;
+	font-size:20px;
+	text-align:right;
+}
+#slider{
+	margin:20px 0px;
+}
+.sliderlowerlimit{
+	color:white;
+	font-size:20px;
+	margin-top:15px;
+	text-align:right;
+}
+.sliderupperlimit{
+	color:white;
+	font-size:20px;
+	margin-top:15px;
+	text-align:left;
+}
